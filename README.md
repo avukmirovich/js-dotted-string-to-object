@@ -4,7 +4,7 @@ Converts string like `a.b.c.d` to object `{a: {b: {c: 'd'} } }`.
 
 About
 -----
-`dotted-str-to-obj.js` module exports function which takes string as argument and try to convert it to object tree. String must consist from part, separated by dots.
+`dotted-str-to-obj.js` module exports function which takes string as argument and try to convert it to object tree. String must consists from parts, separated by dots.
 
 Usage
 -----
